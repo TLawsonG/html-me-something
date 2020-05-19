@@ -1,0 +1,18 @@
+p {
+    margin-top: 15px;
+    margin-bottom: 110px;
+    margin-right: 180px;
+    margin-left: 50px;
+  }
+  div {
+    padding: 10px 50px 10px;
+  }
+  div {
+    background-color: cyan;
+  }
+  title{
+    background-color: rgba(49, 175, 70, 0.842);
+  }
+  #id {
+    background-color: yellow;
+  }
